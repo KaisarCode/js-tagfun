@@ -1,0 +1,25 @@
+{
+  "name": "kc-tagfun",
+  "version": "1.2.5",
+  "description": "[js] Replace content within tags with function's output.",
+  "main": "index.js",
+  "author": "KaisarCode",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaisarCode/js-tagfun.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-tagfun/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-tagfun",
+  "keywords": [
+    "replace",
+    "tags",
+    "string",
+    "template"
+  ],
+  "dependencies": {
+    "fun2mod": "^1.0.5"
+  }
+}
