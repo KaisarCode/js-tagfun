@@ -1,6 +1,6 @@
 {
   "name": "kc-tagfun",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "[js] Replace content within tags with function's output.",
   "main": "index.js",
   "author": "KaisarCode",
