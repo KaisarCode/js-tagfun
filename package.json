@@ -7,12 +7,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KaisarCode/js-tagfun.git"
+    "url": "git+https://github.com/kaisarsnippets/js-tagfun.git"
   },
   "bugs": {
-    "url": "https://github.com/KaisarCode/js-tagfun/issues"
+    "url": "https://github.com/kaisarsnippets/js-tagfun/issues"
   },
-  "homepage": "https://github.com/KaisarCode/js-tagfun",
+  "homepage": "https://github.com/kaisarsnippets/js-tagfun",
   "keywords": [
     "replace",
     "tags",
